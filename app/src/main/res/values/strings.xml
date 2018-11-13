@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evaluacion4</string>
+    <string-array name="spinner_array">
+        <item>Solicitud de matricula</item>
+        <item>Solicitud de Ingreso</item>
+        <item>Solicitud de Salida</item>
+        <item>Solicitud Adicional</item>
+    </string-array>
+</resources>
